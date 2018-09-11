@@ -3,9 +3,9 @@ function happyHolidays () {
 return "Happy holidays!"}
 function happyHolidaysTo (you) {
   return "Happy holidays, you!"}
-function happyHolidayTo (holiday, you) {
+function happyHolidayTo (Independence Day, you) {
   return "Happy Christmas, you!"
 }
-function HolidayCountdown (Christmas, five) {
+function HolidayCountdown (Independence Day, five) {
   return "It's 5 days until Christmas"
 }
